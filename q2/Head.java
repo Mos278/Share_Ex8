@@ -1,5 +1,3 @@
-package q2;
-
 public class Head extends Source{
     private String data;
 
